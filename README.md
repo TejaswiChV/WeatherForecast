@@ -1,6 +1,7 @@
 # React + Vite
 
 Prerequisites - npm should be installed
+
 This template provides a minimal setup to for running Weather Forecast in local
 
 
